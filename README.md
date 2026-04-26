@@ -7,6 +7,6 @@ In this lab...
 
 <h2>Tools and Languages</h2>
 
-<h2>Environemnts Used</h2>
+<h2>Environments Used</h2>
 
 <h2>Walk-Though</h2>
