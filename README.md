@@ -9,4 +9,4 @@ In this lab...
 
 <h2>Environments Used</h2>
 
-<h2>Walk-Though</h2>
+<h2>Walk-through</h2>
